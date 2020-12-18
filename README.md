@@ -40,6 +40,6 @@ Finally, run Generator.py
 ```
 python Generator.py
 ```
-This will give you the final output csv file
+This will give you the final output.csv file
 
 To better use this system or if you have any question, please check the instruction document
